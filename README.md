@@ -1,17 +1,16 @@
+<h1 align="center">Hey, Anish here🙋‍♂️</h1>
+<h3>Resilient Front-end Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishganapathi&label=Profile%20views&color=0e75b6&style=flat" alt="anishganapathi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishganapathi" alt="anishganapathi" /></a> </p>
 
-<h1 align="center">Hey, Anish here</h1>
-<h3>Resilient Front-end Developer from India</h3>
-
-<p><strong>BIO</p>
-- 🔭 I’m currently working on Kali-Linux and Virtual Machines.
-- ⚙️ I use daily: HTML,CSS,Javascript,ReactJS,Figma,Photoshop.
-- 👯 I’m looking to collaborate on [ML Models](#)
-- 👨‍💻 All of my projects are available at [github.com/anishganapathi]
-- 📫 How to reach me **anishganapathi19@gmail.com**,**linkedin.com/anish-ganapathi-086049220**
+<strong>BIO</strong>
+- 🔭 I’m currently working on Kali-Linux and Virtual Machines.<br>
+- ⚙️ I use daily: HTML,CSS,Javascript,ReactJS,Figma,Photoshop.<br>
+- 👯 I’m looking to collaborate on [ML Models](#)<br>
+- 👨‍💻 All of my projects are available at [github.com/anishganapathi]<br>
+- 📫 How to reach me **anishganapathi19@gmail.com**,**linkedin.com/anish-ganapathi-086049220**<br>
 
 
 <h3 align="left">Connect with me:</h3>
