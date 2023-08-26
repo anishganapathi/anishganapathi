@@ -1,5 +1,5 @@
 <h1 align="center">Hey, Anish here🙋‍♂️</h1>
-<h3 align="center">Resilient frontend developer from India</h3>
+<h3 align="center">--Resilient frontend developer from India--</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishganapathi&label=Profile%20views&color=0e75b6&style=flat" alt="anishganapathi" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Kali-Linux and Virtual Machines.**
 
-- 👯 I’m looking to collaborate on **AI & ML Applications**
+- 👯 I’m looking to collaborate on **AI & ML Applications.**
 
 - ⚙️ I use daily: **HTML,CSS,Javascript,ReactJS,Figma,Photoshop.**
 
 - 👨‍💻 All of my projects are available at [github/anishganapathi](https://github.com/anishganapathi)
 
-- 💬 Ask me about **react, vue and svelte**
+- 💬 Ask me about **react, vue and svelte.**
 
 - 📫 How to reach me **anishganapathi19@gmail.com**
 
