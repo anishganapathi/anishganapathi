@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Anish</h1>
-<h3 align="center">A passionate front-end developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishganapathi&label=Profile%20views&color=0e75b6&style=flat" alt="anishganapathi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishganapathi" alt="anishganapathi" /></a> </p>
 
-- 🔭 I’m currently working on [ThreeJS](#)
+<h1 align="center">Hey, Anish here</h1>
+<h3>Resilient Front-end Developer from India</h3>
 
-- 🌱 I’m currently learning **ThreeJS, Flutter**
-
-- 👯 I’m looking to collaborate on [Flutter projects](#)
-
-- 👨‍💻 All of my projects are available at [(https://github.com/anishganapathi)
-
-- 📫 How to reach me **(https://www.linkedin.com/in/anish-ganapathi-086049220/)**
+<p><strong>BIO</p>
+- 🔭 I’m currently working on Kali-Linux and Virtual Machines.
+- ⚙️ I use daily: HTML,CSS,Javascript,ReactJS,Figma,Photoshop.
+- 👯 I’m looking to collaborate on [ML Models](#)
+- 👨‍💻 All of my projects are available at [github.com/anishganapathi]
+- 📫 How to reach me **anishganapathi19@gmail.com**,**linkedin.com/anish-ganapathi-086049220**
 
 
 <h3 align="left">Connect with me:</h3>
