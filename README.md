@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate front-end developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishganapathi&label=Profile%20views&color=0e75b6&style=flat" alt="anishganapathi" /> </p>
 
@@ -11,17 +11,14 @@
 
 - 👯 I’m looking to collaborate on [Flutter projects](#)
 
-- 👨‍💻 All of my projects are available at [https://anish.com](https://anish.com)
+- 👨‍💻 All of my projects are available at [(https://github.com/anishganapathi)
 
-- 📝 I regularly write articles on [https://anish.com/blog](https://anish.com/blog)
+- 📫 How to reach me **(https://www.linkedin.com/in/anish-ganapathi-086049220/)**
 
-- 📫 How to reach me **anish.21bec7145@vitapstudent.ac.in**
-
-- 📄 Know about my experiences [https://anish.com/](https://anish.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/anish.g_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anish.g_19" height="30" width="40" /></a>
+<a href="https://instagram.com/ani.__sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anish.g_19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
