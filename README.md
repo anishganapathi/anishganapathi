@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [github/anishganapathi](https://github.com/anishganapathi)
 
-- 💬 Ask me about **react, vue and svelte.**
+- 💬 Ask me about **react, vite and svelte.**
 
 - 📫 How to reach me **anishganapathi19@gmail.com**
 
