@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **AI & ML Applications**
 
-- ⚙️ I use daily: **HTML,CSS,Javascript,ReactJS,Figma,Photoshop.**
+- ⚙️ I use daily: **HTML,CSS,Javascript,ReactJS,Figma & Photoshop.**
 
 - 👨‍💻 All of my projects are available at [anishganapathi](https://github.com/anishganapathi)
 
-- 💬 Ask me about **react, vue and NEXT**
+- 💬 Ask me about **react, vue and Next.**
 
 - 📫 How to reach me **anishganapathi19@gmail.com**
 
