@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishganapathi" alt="anishganapathi" /></a> </p>
 
-- 🔭 I’m currently working on **Linux and Virtual Machinesss.**
+- 🔭 I’m currently working on **Linux and Virtual Machines.**
 
 - 👯 I’m looking to collaborate on **AI & ML Applications**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [anishganapathi](https://github.com/anishganapathi)
 
-- 💬 Ask me about **react, vue and svelte**
+- 💬 Ask me about **react, vue and NEXT**
 
 - 📫 How to reach me **anishganapathi19@gmail.com**
 
