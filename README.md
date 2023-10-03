@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Linux and Virtual Machines.**
 
-- 👯 I’m looking to collaborate on **AI & ML Applications**
+- 👯 I’m looking to collaborate on **AI & ML Applications.**
 
 - ⚙️ I use daily: **HTML,CSS,Javascript,ReactJS,Figma & Photoshop.**
 
