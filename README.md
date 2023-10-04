@@ -3,8 +3,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishganapathi&label=Profile%20views&color=0e75b6&style=flat" alt="anishganapathi" /> </p>
+![Analyze and Simulate (2)](https://github.com/anishganapathi/anishganapathi/assets/104456169/c6699fa8-e257-49a5-87b3-39e7778ba0ab)
 
-![Analyze and Simulate](https://github.com/anishganapathi/anishganapathi/assets/104456169/4df6e0de-575e-4f8b-b42b-26ee419f0db1)
 
 - 🔭 I’m currently working on **Linux and Virtual Machines.**
 
