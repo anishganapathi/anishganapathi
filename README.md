@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishganapathi&label=Profile%20views&color=0e75b6&style=flat" alt="anishganapathi" /> </p>
 
-<p align="left"> <a href="https://ibb.co/SJmCQFV"><img src="https://i.ibb.co/Lvg7QV9/Analyze-and-Simulate.png" alt="Analyze-and-Simulate" border="0" /></a> </p>
+<p align="center"> <a href="https://ibb.co/SJmCQFV"><img src="https://i.ibb.co/Lvg7QV9/Analyze-and-Simulate.png" alt="Analyze-and-Simulate" border="0" /></a> </p>
 
 - 🔭 I’m currently working on **Linux and Virtual Machines.**
 
