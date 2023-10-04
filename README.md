@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishganapathi&label=Profile%20views&color=0e75b6&style=flat" alt="anishganapathi" /> </p>
 
-<p align="center"> <a href="https://ibb.co/SJmCQFV"><img src="https://i.ibb.co/Lvg7QV9/Analyze-and-Simulate.png" alt="Analyze-and-Simulate" border="0" /></a> </p>
+![Analyze and Simulate](https://github.com/anishganapathi/anishganapathi/assets/104456169/4df6e0de-575e-4f8b-b42b-26ee419f0db1)
 
 - 🔭 I’m currently working on **Linux and Virtual Machines.**
 
