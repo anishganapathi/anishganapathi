@@ -1,9 +1,10 @@
 <h1 align="center">Hey, Anish here🙋‍♂️</h1>
 <h3 align="center">Resilient frontend developer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishganapathi&label=Profile%20views&color=0e75b6&style=flat" alt="anishganapathi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishganapathi" alt="anishganapathi" /></a> </p>
+<p align="left"> <a href="https://ibb.co/SJmCQFV"><img src="https://i.ibb.co/Lvg7QV9/Analyze-and-Simulate.png" alt="Analyze-and-Simulate" border="0" /></a> </p>
 
 - 🔭 I’m currently working on **Linux and Virtual Machines.**
 
