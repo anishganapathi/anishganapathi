@@ -6,11 +6,6 @@
 
 
 
-
-https://github.com/anishganapathi/anishganapathi/assets/104456169/f1469a21-03bc-4eae-92c6-ebb602c876fa
-
-
-
 - 🔭 I’m currently working on **Linux and Virtual Machines.**
 
 - 👯 I’m looking to collaborate on **AI & ML Applications.**
