@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishganapathi&label=Profile%20views&color=0e75b6&style=flat" alt="anishganapathi" /> </p>
 
-![loader](https://github.com/anishganapathi/anishganapathi/assets/104456169/29f135d0-df9f-4a38-a59c-bce114023598)
 
 
 - 🔭 I’m currently working on **Linux and Virtual Machines.**
