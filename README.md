@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishganapathi&label=Profile%20views&color=0e75b6&style=flat" alt="anishganapathi" /> </p>
 
+![Dino-Game](https://github.com/anishganapathi/anishganapathi/assets/104456169/9a0a5600-9f82-4eb0-9e7b-bde8a2eb1877)
 
 
 - 🔭 I’m currently working on **Linux and Virtual Machines.**
