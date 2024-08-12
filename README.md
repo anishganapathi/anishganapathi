@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [anishganapathi](https://github.com/anishganapathi)
 
-- 💬 Ask me about **react, vue and Next.**
+- 💬 Ask me about **react, vite and Next.**
 
 - 📫 How to reach me **anishganapathi19@gmail.com**
 
