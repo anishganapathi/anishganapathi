@@ -1,11 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Anish+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+ML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Anish+%F0%9F%91%8B;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anishganapathi&label=Profile%20Views&color=58A6FF&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/anishganapathi?label=Followers&style=flat-square&color=58A6FF" alt="followers" />
 </p>
-
 ---
 
 ### 🧑‍💻 About Me
