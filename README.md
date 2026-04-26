@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=anishganapathi&label=Profile%20Views&color=58A6FF&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/anishganapathi?label=Followers&style=flat-square&color=58A6FF" alt="followers" />
 </p>
+
 ---
 
 ### 🧑‍💻 About Me
